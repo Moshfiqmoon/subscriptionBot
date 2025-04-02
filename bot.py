@@ -34,7 +34,7 @@ def save_subscriptions(subscriptions):
 subscriptions = load_subscriptions()
 
 # Admin chat ID (replace with actual admin Telegram chat ID)
-ADMIN_CHAT_ID = "7809844153"
+ADMIN_CHAT_ID = "7944149645"
 
 # Pagination settings
 PAGE_SIZE = 5  # Number of subscriptions per page
